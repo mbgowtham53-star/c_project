@@ -37,7 +37,7 @@ int main() {
     return 0;
 }
 
-Explanation:
+Explanations
 Input: The user enters a string.
 Reverse: The program reverses the string and stores it in a new array.
 Comparison: It compares the original string with the reversed one.
