@@ -14,7 +14,7 @@ int main() {
 
     length = strlen(str);
 
-    // Reverse the string
+    // Reverse the strings
     for (i = 0; i < length; i++) {
         reversed[i] = str[length - i - 1];
     }
