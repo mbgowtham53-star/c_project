@@ -7,7 +7,7 @@ Copy code
 int main() {
     int num1, num2, num3, largest;
 
-    // Input three numbers
+    // Input three numbers are
     printf("Enter three numbers: ");
     scanf("%d %d %d", &num1, &num2, &num3);
 
